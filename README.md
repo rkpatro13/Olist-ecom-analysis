@@ -1,5 +1,5 @@
 # Olist_ecom_analysis
-Business Analytics project using PostgreSQL and Power BI on the Olist Brazilian ecommerce dataset. This project analyzes sales and category, seller performance and logistics &amp; delivery performance through SQL driven insights and interactive dashboards. 
+Business Impact: Built an business analyst project where I have analyzed 100K+ e-commerce orders across 9 relational tables. Generated insights into revenue trends, customer behavior, seller performance, and logistics efficiency through 20+ SQL analyses and 4 interactive Power BI dashboards, enabling data driven recommendations to improve operational performance and customer satisfaction.
 
 SQL queries:
 
